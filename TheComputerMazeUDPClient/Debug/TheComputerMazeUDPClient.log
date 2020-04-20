@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  TheComputerMazeUDPClient.cpp
+D:\Ryan Ingham\Documents\CANS_MAZE 2\TheComputerMazeUDPClient\TheComputerMazeUDPClient.cpp(506,9): warning C4101: 'i': unreferenced local variable
+D:\Ryan Ingham\Documents\CANS_MAZE 2\TheComputerMazeUDPClient\TheComputerMazeUDPClient.cpp(604,27): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+D:\Ryan Ingham\Documents\CANS_MAZE 2\TheComputerMazeUDPClient\TheComputerMazeUDPClient.cpp(804,5): warning C4101: 'i': unreferenced local variable
+D:\Ryan Ingham\Documents\CANS_MAZE 2\TheComputerMazeUDPClient\TheComputerMazeUDPClient.cpp(805,6): warning C4101: 'chr': unreferenced local variable
+  TheComputerMazeUDPClient.vcxproj -> D:\Ryan Ingham\Documents\CANS_MAZE 2\Debug\TheComputerMazeUDPClient.exe
